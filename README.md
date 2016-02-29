@@ -10,4 +10,5 @@ If you have any questions please ask!
 
 <img src="http://i.imgur.com/fF9ydnv.jpg" alt />
 
+<b>Made with <3 by a bunch of geeks from All Around The World </b>
 <a href="www.codeib.com"> With love from CodeIB </a>
